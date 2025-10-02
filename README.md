@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**fran-viana/fran-viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou [fran viana]
 
-Here are some ideas to get you started:
+🎓 Aluno na DIO | Explorando o mundo da tecnologia  
+📊 Aprendendo Power BI e análise de dados  
+🚀 Em busca de aprendizado e novos desafios  
+📫 Contato: francineviana55@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias em aprendizado
+
+- Power BI
+- Excel Avançado
+- SQL
+- Git e GitHub
+
+
+
+---
+
+**Obrigado por visitar meu perfil!**  
+Vamos crescer juntos na jornada tech 🚀
